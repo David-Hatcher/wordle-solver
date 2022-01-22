@@ -1,0 +1,18 @@
+.in-correct-place {
+    background-color: #538d4e;
+}
+.correct-character {
+    background-color: #b59f3b;
+}
+.wrong-character {
+    background-color: #3a3a3c;
+}
+
+.letter {
+    pointer-events: none;
+    user-select: none;
+}
+
+.disabled {
+    pointer-events: none;
+}
